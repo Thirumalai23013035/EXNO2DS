@@ -1,5 +1,5 @@
 # EXNO2DS
-NAME: THIRUMALAI V R</br>
+NAME: THIRUMALAI V </br>
 REG.NO:212223040229</br>
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
